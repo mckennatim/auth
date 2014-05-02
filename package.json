@@ -1,0 +1,29 @@
+{
+  "name": "cors",
+  "description": "moving to tdd",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "express": "3.x",
+    "mongoose": "3.5.x",
+    "mongoskin": ">=0.0.0",
+    "express-jwt": ">=0.0.0",
+    "ejs": ">= 0.0.0",
+    "ejs-locals": ">= 0.0.0",
+    "underscore": ">=0.0.0",
+    "passport": ">=0.0.0",
+    "passport-local": ">=0.0.0",
+    "passport-localapikey": ">= 0.0.0",
+    "connect-flash": ">=0.0.0"
+  },
+  "devDependencies": {
+    "superagent": ">=0.0.0",
+    "supertest": ">=0.0.0",
+    "mocha": "1.8.x",
+    "chai": ">=0.0.0",
+    "vows": ">=0.0.0",
+    "assert": ">=0.0.0",
+    "expect.js": ">=0.0.0",
+    "frisby": ">=0.0.0"
+  }
+}
